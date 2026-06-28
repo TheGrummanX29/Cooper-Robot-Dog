@@ -17,13 +17,13 @@
 ## Project development
 During the first year of development, we managed to create a 3D model and write code for the servos, LED lighting, and ESP32-CAM.
 
-# mk1
-<img src="images/mk1" alt="Cooper(mk1)" width="80%">
+### mk1
+<img src="images/mk1" alt="Cooper(mk1)" width="60%">
 
-# mk2
-<img src="images/mk2" alt="Cooper(mk2)" width="80%">
+### mk2
+<img src="images/mk2.jpg" alt="Cooper(mk2)" width="60%">
 
-<img src="images/mk2(bp)" alt="Cooper(mk2)" width="80%">
+<img src="images/mk2(bp)" alt="Cooper(mk2)" width="60%">
 
-# mk3
+### mk3
 <img src="images/General v126 (mk3).png" alt="Cooper(mk3)" width="60%">
