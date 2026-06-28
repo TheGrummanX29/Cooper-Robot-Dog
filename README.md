@@ -2,7 +2,7 @@
 <img src="images/White_logo.png" alt="Cooper logo" width="80%">
 
 ## Robot equipment
-<img src="images/General v127 WB.png" alt="Cooper" width="80%">
+<img src="images/General v127 WB.png" alt="Cooper(mk3)" width="80%">
 
   1. x12 servo motors (mg996)
   2. x2 26650 5100 mAh cells
@@ -16,6 +16,14 @@
 
 ## Project development
 During the first year of development, we managed to create a 3D model and write code for the servos, LED lighting, and ESP32-CAM.
-# mk1
 
-    
+# mk1
+<img src="images/mk1" alt="Cooper(mk1)" width="80%">
+
+# mk2
+<img src="images/mk2" alt="Cooper(mk2)" width="80%">
+
+<img src="images/mk2(bp)" alt="Cooper(mk2)" width="80%">
+
+# mk3
+<img src="images/General v126 (mk3).png" alt="Cooper(mk3)" width="60%">
