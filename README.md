@@ -27,3 +27,7 @@ During the first year of development, we managed to create a 3D model and write 
 
 ### mk3
 <img src="images/General v126 (mk3).png" alt="Cooper(mk3)" width="60%">
+
+## Code description
+### **[ESP32-CAM](./src/ESP32/ESP32CAM_object_detection_with_tg_send.ino)**
+A script was written for the ESP32-CAM that generates a web page (accessible by connecting the camera to the internet). On this page, a target can be selected, and the camera automatically recognizes it. The script also activates a Telegram bot, which allows for the control of certain robot functions.
