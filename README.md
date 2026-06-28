@@ -2,6 +2,8 @@
 <img src="images/White_logo.png" alt="Cooper logo" width="80%">
 
 ## Robot equipment:
+<img src="images/General_v127_WB.png" alt="Cooper logo" width="80%">
+
   1. x12 servo motors (mg996)
   2. x2 26650 5100 mah cells
   3. PCA9685 I2C
