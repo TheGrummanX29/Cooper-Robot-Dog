@@ -1,7 +1,7 @@
 # Cooper - an evolving project to create an autonomous robotic platform
 <img src="images/White_logo.png" alt="Cooper logo" width="80%">
 
-## Robot equipment:
+## Robot equipment
 <img src="images/General v127 WB.png" alt="Cooper" width="80%">
 
   1. x12 servo motors (mg996)
@@ -13,3 +13,5 @@
   7. LiDAR (from Xiaomi robot vacuum cleaner)
   8. x2 voltage converters
   9. Breadboard for soldering
+
+## Project development
