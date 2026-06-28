@@ -15,3 +15,7 @@
   9. Breadboard for soldering
 
 ## Project development
+During the first year of development, we managed to create a 3D model and write code for the servos, LED lighting, and ESP32-CAM.
+# mk1
+
+    
